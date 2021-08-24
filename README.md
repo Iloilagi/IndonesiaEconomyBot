@@ -1,0 +1,2 @@
+# IndonesiaEconomyBot
+Discord Economy Bot
